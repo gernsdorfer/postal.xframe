@@ -13,7 +13,7 @@
     "author": "Jim Cowart <jim@ifandelse.com>",
     "repository": {
         "type": "git",
-        "url": "git://github.com/postaljs/postal.xframe.git"
+        "url": "git://github.com:gernsdorfer/postal.xframe.git"
     },
     "main": [
         "lib/postal.xframe.js"
